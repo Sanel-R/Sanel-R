@@ -1,5 +1,7 @@
-<h1 align="center">Hi 👋, I'm Sanele Mkhize</h1>
-<h3 align="center">A passionate full stack developer from South Africa, Durban</h3>
+<img  alt="Coding" src="https://raw.githubusercontent.com/Sanel-R/Sanel-R/main/github-header-image.png">
+<h2 align="center">A passionate full stack developer from South Africa, KZN, Durban</h2>
+<h3 align="center">I'm an Engineer with background in Cyber Security(VM & SCA)</h3>
+<h4 align="center">Currently based in the Mother City, South Africa, WC, Cape Town</h4>
 <img align="right" alt="Coding" width="400" src="https://assets-global.website-files.com/61897bbb80b04406f137091a/62430a051e734d35fa9f3e0b_WLSSmhPWPsTOUHVemfC4VPHDMFRtjCUIbBGwOgt0NR93B_jx08Rj_7MD0K4cqeRlT4eiFJD1S4_FK4QrQzXDcsw-WHR5epdjl3oWfkTekDpjNlWYFNJ-yaF6K9Rg2ApEZQrwLqcc.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sanel-r&label=Profile%20views&color=0e75b6&style=flat" alt="sanel-r" /> </p>
