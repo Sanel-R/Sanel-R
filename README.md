@@ -1,6 +1,7 @@
 <img  alt="Coding" src="https://raw.githubusercontent.com/Sanel-R/Sanel-R/main/github-header-image.png">
-<h2 align="center">A full stack developer from South Africa, Currently based in the Mother City, Cape Town :)</h2>
-<h5 align="center">I'm an Engineer with background in Cyber Security(VM & SCA)</h5>
+<h3 align="center">A full stack developer 👨🏾‍💻 from South Africa.</h3>
+<h4 align="center">Currently based in the Mother City ⛰️, Cape Town</h4>
+<h6 align="center">I'm an Engineer with background in Cyber Security(VM & SCA)</h6>
 <hr>
 
 <img align="right" alt="Coding" width="400" src="https://assets-global.website-files.com/61897bbb80b04406f137091a/62430a051e734d35fa9f3e0b_WLSSmhPWPsTOUHVemfC4VPHDMFRtjCUIbBGwOgt0NR93B_jx08Rj_7MD0K4cqeRlT4eiFJD1S4_FK4QrQzXDcsw-WHR5epdjl3oWfkTekDpjNlWYFNJ-yaF6K9Rg2ApEZQrwLqcc.gif">
@@ -13,7 +14,7 @@
 
 - 📝 I regularly write articles on [https://srmkhize.com/blogs](https://srmkhize.com/blogs)
 
-- 💬 Ask me about **Vue.js, Nuxt.js, Postgresql, Spring**
+- 💬 Ask me about **_Vue.js, Nuxt.js, Postgresql, Spring_**
 
 - 📫 How to reach me **sanelerudolph@gmail.com**
 
