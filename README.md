@@ -12,7 +12,7 @@
 
 - 👨‍💻 All of my projects are available at [https://srmkhize.com/](https://srmkhize.com/)
 
-- 📝 I regularly write articles on [https://srmkhize.com/blogs](https://srmkhize.com/blogs)
+- 📝 Stay tuned for upcoming blog posts! [https://srmkhize.com/blogs](https://srmkhize.com/blogs)
 
 - 💬 Ask me about **_Vue.js, Nuxt.js, Postgresql, Spring_**
 
