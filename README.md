@@ -8,7 +8,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sanel-r&label=Profile%20views&color=0e75b6&style=flat" alt="sanel-r" /> </p>
 
-- 🌱 I’m currently learning **React.js**
+- 🌱 I’m currently learning **Next.js**
 
 - 👨‍💻 All of my projects are available at [https://srmkhize.com/](https://srmkhize.com/)
 
